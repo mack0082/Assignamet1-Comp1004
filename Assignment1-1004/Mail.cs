@@ -17,12 +17,18 @@ namespace Assignment1_1004
             InitializeComponent();
         }
 
+
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
 
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void calculateButton_Click(object sender, EventArgs e)
         {
 
         }
